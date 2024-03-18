@@ -1,0 +1,21 @@
+.filas {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu {
+    height: 900px;
+    width: 300px;
+    background-color: brown;
+}
+
+.productos {
+    display: flex;
+    flex-direction: column;
+}
+
+.producto {
+    height: 250px;
+    width: 250px;
+    background-image: url('https://picsum.photos/200/300');
+}
